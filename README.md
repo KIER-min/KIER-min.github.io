@@ -1,4 +1,4 @@
-## Hi there 👋
+## Gyeong-Min Kim, KIER
 
 <!--
 **KIER-min/KIER-min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
