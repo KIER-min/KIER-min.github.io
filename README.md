@@ -1,4 +1,6 @@
 ## Gyeong-Min Kim, KIER
+## +82-10-6568-0379
+## energymin@kier.re.kr
 
 <!--
 **KIER-min/KIER-min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
